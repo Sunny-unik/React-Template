@@ -1,3 +1,9 @@
+# React-Template 
+It's just modified product of create-react-app in more cleaner look & ready to use
+# You have to know for use it
+### Clone this project show hidden files delete .git directory this directory is always stay hidden in most of OS. And this template also consists .gitignore file for ignore node project based personal, .env files in root directory so you don't need to write it again but there is important directory name is commented in this file which is node_modules so please make sure you uncomment this line. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
